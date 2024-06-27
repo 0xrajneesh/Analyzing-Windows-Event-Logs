@@ -1,4 +1,6 @@
 # [Lab Excercise] Analyzing Windows Event Logs for Security Incidents
+![Blue Sand White Beach Simple Watercolor Etsy Shop Banner (8)](https://github.com/0xrajneesh/Log-Analysis-Projects-for-Beginners/assets/40385860/57eacefb-eedc-4c9f-8c87-a3fd01785123)
+
 
 ## Introduction
 In this project, students will learn the basics of analyzing Windows Event Logs to detect and investigate security incidents. Windows Event Logs are a valuable source of information about system activities, user actions, and potential security issues. By the end of this project, students will be able to access and interpret event logs, identify security-related events, and use event log analysis to support incident response.
